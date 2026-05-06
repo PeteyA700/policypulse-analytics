@@ -1,0 +1,5 @@
+policy_type,customers,avg_monthly_premium,avg_annual_revenue,churn_rate_percent,total_annual_revenue
+Home,1244,136.57,1638.88,13.02,2038769.4
+Auto,2257,136.67,1639.98,12.72,3701439.0
+Renters,992,136.07,1632.82,12.2,1619754.36
+Life,507,135.11,1621.31,10.26,822005.88
